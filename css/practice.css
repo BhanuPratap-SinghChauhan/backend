@@ -1,0 +1,30 @@
+/* h2{
+    color : orange;
+
+} */
+
+button{
+    color : white;
+    background-color : blue;
+}
+
+p{
+    color : white;
+    background-color : black;
+}
+
+h2{
+    /* color : rgb(255,0,0); */
+    /* color : rgb(120,0,120); */
+
+    /* color : #ffff00; */
+    /* color : #00ff00; */
+    /* color : #f00;*/ 
+
+       /* color : rgb(255,150,00); */
+       /* color : #ff5000; */
+
+    /* color : rgb(0,255,255); */
+    /* color : #0ff; */
+}
+

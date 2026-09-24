@@ -1,0 +1,23 @@
+*{
+    font-family : "courier-new";
+     /* color : red; */
+     
+}
+#facebook{font-weight:bolder;
+    color: #003566;
+}
+#searchbtn{
+    color:white ;
+    background-color : black;
+}
+.userbtn{
+    background-color : aqua;
+    color : black ;
+}
+h1{
+    color : #1b74e4;
+}
+h1{
+    color : yellow;
+
+}

@@ -1,0 +1,41 @@
+h1{
+    text-align : center;
+    /* border :solid; */
+    width : 50%;
+    text-decoration : double teal underline;
+    letter-spacing : 2px;
+    font-size : 55px;
+    font-family : league-sparten;
+    color : #ffa511;
+    font-weight : 90;
+    line-height : 1.5;
+    text-transform : uppercase;
+
+
+}
+
+h3{
+    text-align : right;
+    text-decoration : dotted pink line-through;
+
+}
+
+p{
+    text-align : right;
+    /* border: 2px solid red; */
+    /* font-weight : 800; */
+    font-weight : 100;
+    line-height : 2.5;
+    font-size : 15px;
+    font-family : arial;
+}
+
+h2{
+    font-weight : normal;
+    text-decoration : double yellow overline;
+
+}
+
+a{
+    text-decoration : none;
+}
